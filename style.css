@@ -148,7 +148,7 @@ section.value-3 {
 }
 
 .graphic-design {
-    height: 100vh;
+    height: 90vh;
     color: var(--Dark-desaturated-cyan-graphic-design-text);
     background-image: url("images/mobile/image-graphic-design.jpg");
     background-image: -webkit-image-set(
@@ -167,7 +167,7 @@ section.value-3 {
 }
 
 .photography {
-    height: 100vh;
+    height: 90vh;
     color: var(--Dark-blue-photography-text);
     background-image: url("images/mobile/image-photography.jpg");
     background-image: -webkit-image-set(
