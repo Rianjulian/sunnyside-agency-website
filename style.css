@@ -77,10 +77,11 @@ button#hamburgerButton {
     background-position: center bottom;
     background-repeat: no-repeat;
     display: grid;
+    padding: 8vw;
     grid-auto-flow: row;
-    place-content: center;
+    align-content: baseline;
     justify-items: center;
-    gap: 10vw;
+    gap: 2vw;
 }
 
 .header h1 {
